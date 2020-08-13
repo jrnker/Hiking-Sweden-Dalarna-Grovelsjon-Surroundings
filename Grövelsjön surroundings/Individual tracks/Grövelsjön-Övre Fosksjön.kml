@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Grövelsjön-Övre Fosksjön.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Grövelsjön-Övre Fosksjön</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				12.3214950201101,62.097528461004,0 12.32421594477886,62.0975367518558,0 12.32626084622733,62.09758478665776,0 12.32806141329855,62.09773621218647,0 12.32935460096311,62.0984040834847,0 12.33072809071752,62.09910074169978,0 12.3321436602146,62.09968962164333,0 12.33304930057598,62.10019172026218,0 12.34365602189176,62.10487360658722,0 12.34750459267024,62.10609561163961,0 12.35095554020188,62.10694750680614,0 12.35872891122562,62.10784338986457,0 12.36051529022862,62.10865329267074,0 12.36270314039134,62.11006891724796,0 12.36555916735347,62.11115846600021,0 12.36834861205531,62.11228802190692,0 12.37053260301234,62.1137843093247,0 12.37310515808047,62.11505648438147,0 12.37611156144546,62.11626778730401,0 12.37939673560779,62.11714278689249,0 12.38285431206995,62.11782908467806,0 12.38636525407949,62.11895145572993,0 12.38904405185787,62.11989398535383,0 12.39265891015205,62.1209695592968,0 12.39521271381461,62.12200082266877,0 12.39866415730084,62.12293433458651,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

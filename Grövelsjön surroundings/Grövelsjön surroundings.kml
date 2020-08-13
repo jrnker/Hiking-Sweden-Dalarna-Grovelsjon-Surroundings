@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Grövelsjön surroundings.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Grövelsjön surroundings</name>
+		<open>1</open>
+		<LookAt>
+			<longitude>12.35687922425014</longitude>
+			<latitude>62.07385092122365</latitude>
+			<altitude>0</altitude>
+			<heading>-0.3085138444606719</heading>
+			<tilt>38.27057148577255</tilt>
+			<range>13808.21115207151</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>Grövelsjön-Övre Fosksjön</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					12.3214950201101,62.097528461004,0 12.32421594477886,62.0975367518558,0 12.32626084622733,62.09758478665776,0 12.32806141329855,62.09773621218647,0 12.32935460096311,62.0984040834847,0 12.33072809071752,62.09910074169978,0 12.3321436602146,62.09968962164333,0 12.33304930057598,62.10019172026218,0 12.34365602189176,62.10487360658722,0 12.34750459267024,62.10609561163961,0 12.35095554020188,62.10694750680614,0 12.35872891122562,62.10784338986457,0 12.36051529022862,62.10865329267074,0 12.36270314039134,62.11006891724796,0 12.36555916735347,62.11115846600021,0 12.36834861205531,62.11228802190692,0 12.37053260301234,62.1137843093247,0 12.37310515808047,62.11505648438147,0 12.37611156144546,62.11626778730401,0 12.37939673560779,62.11714278689249,0 12.38285431206995,62.11782908467806,0 12.38636525407949,62.11895145572993,0 12.38904405185787,62.11989398535383,0 12.39265891015205,62.1209695592968,0 12.39521271381461,62.12200082266877,0 12.39866415730084,62.12293433458651,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Övre Fosksjön-Storvätteshågna</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					12.39860202279702,62.12291480551993,0 12.40162155999228,62.12247207749799,0 12.40324150673221,62.12230783035923,0 12.40700962829087,62.12152029720905,0 12.41054727775606,62.12089179023713,0 12.414284238215,62.12044919932573,0 12.41784864868564,62.12004848969248,0 12.42153601238527,62.11949836252786,0 12.42362480303558,62.11951606601973,0 12.42550786523363,62.11938323775109,0 12.42780512252898,62.11887483752648,0 12.43051026965453,62.11854728356916,0 12.43259058626598,62.11826177703415,0 12.43391142718032,62.11790517155313,0 12.43596733080319,62.11691741553506,0 12.43929327736441,62.11703428254906,0 12.44249776201646,62.11700602922462,0 12.44421046516307,62.11675758422155,0 12.44607436569974,62.11659784052209,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Storvätteshågna-Floåsen</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					12.44621899157515,62.11668565317416,0 12.44783045042352,62.11735659856685,0 12.44881502610122,62.11644366008722,0 12.44941550478386,62.11564647374329,0 12.44944928264709,62.11469490400427,0 12.44859688763531,62.11376282997823,0 12.44811228210437,62.1125001553013,0 12.44888499900052,62.11115990585768,0 12.44886107031912,62.11103939613244,0 12.44949308156942,62.11004970195462,0 12.45014640115071,62.10895837801409,0 12.44957928312281,62.10776709980036,0 12.4480095437304,62.10620303699674,0 12.4460271943656,62.10502320652254,0 12.44436045705595,62.10366340022333,0 12.44268253238884,62.10220195256368,0 12.44033736690733,62.10090782542136,0 12.43738287558216,62.09917599458271,0 12.4353021123356,62.09810382270154,0 12.43374441428005,62.09665071677414,0 12.43192662607503,62.09469172137079,0 12.43012539130637,62.09366211930848,0 12.42823082574332,62.09218736813689,0 12.42649283564976,62.09094832265954,0 12.42725483306183,62.09026555035262,0 12.42760656657702,62.08924928220625,0 12.42748783795485,62.08838825286426,0 12.42738014507022,62.08667440430405,0 12.42727021665619,62.08493229499572,0 12.42713128432986,62.08401432649408,0 12.42597989940268,62.0831157497152,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Floåsen-Lövåsen</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					12.42618734056869,62.08314075601999,0 12.42489950229695,62.08195475910785,0 12.42594021943048,62.08090341704206,0 12.42781037794912,62.08040358434712,0 12.42923551207561,62.08021082456899,0 12.4311830621228,62.07769714075114,0 12.43285571896154,62.07495993230057,0 12.43403704212227,62.07325730626467,0 12.43452642349704,62.0723162695534,0 12.43408929195507,62.07169400075777,0 12.43194802132528,62.07010540221042,0 12.42975433644276,62.06823500521561,0 12.42724629823213,62.06609444324304,0 12.42532399124276,62.06452795818683,0 12.42413984031251,62.06286073287431,0 12.42284609395976,62.06113390471462,0 12.42164517515464,62.0595622757269,0 12.42096912508347,62.05882510416136,0 12.41827759823602,62.05869381992242,0 12.41748182560233,62.05790705821421,0 12.4162942234912,62.05704175955795,0 12.41509007160199,62.05535765333811,0 12.41200031262155,62.05420039218545,0 12.40827358388874,62.05354211749314,0 12.40589963740167,62.05234707989981,0 12.40241690622529,62.05112067566368,0 12.39953308886193,62.05014439128986,0 12.39522282762724,62.04869825526678,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Lövåsen-Grövelsjön</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					12.39528437100891,62.04874339650301,0 12.39301960496431,62.0479448495332,0 12.37982673060941,62.05391033189559,0 12.37262124996545,62.0566318281592,0 12.36971756582951,62.05797072738851,0 12.36724100190318,62.0604456701545,0 12.36496792843535,62.06463709218208,0 12.36430502364762,62.06606859677728,0 12.36099159197994,62.06769766017396,0 12.35442244800901,62.07078996697182,0 12.34608662411573,62.07331639996406,0 12.34185449939865,62.07550819219765,0 12.33571707825597,62.07973998227047,0 12.32762192966433,62.08203363459803,0 12.32318244109317,62.08281661240749,0 12.31628122673617,62.08336674531791,0 12.3155028826567,62.09062603835481,0 12.30977177021778,62.09363366683164,0 12.31300436128746,62.09681736704141,0 12.3131087411487,62.0968123276592,0 12.32182779147271,62.09759880673091,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

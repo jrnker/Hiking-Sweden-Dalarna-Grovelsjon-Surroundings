@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Storvätteshågna-Floåsen.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Storvätteshågna-Floåsen</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				12.44621899157515,62.11668565317416,0 12.44783045042352,62.11735659856685,0 12.44881502610122,62.11644366008722,0 12.44941550478386,62.11564647374329,0 12.44944928264709,62.11469490400427,0 12.44859688763531,62.11376282997823,0 12.44811228210437,62.1125001553013,0 12.44888499900052,62.11115990585768,0 12.44886107031912,62.11103939613244,0 12.44949308156942,62.11004970195462,0 12.45014640115071,62.10895837801409,0 12.44957928312281,62.10776709980036,0 12.4480095437304,62.10620303699674,0 12.4460271943656,62.10502320652254,0 12.44436045705595,62.10366340022333,0 12.44268253238884,62.10220195256368,0 12.44033736690733,62.10090782542136,0 12.43738287558216,62.09917599458271,0 12.4353021123356,62.09810382270154,0 12.43374441428005,62.09665071677414,0 12.43192662607503,62.09469172137079,0 12.43012539130637,62.09366211930848,0 12.42823082574332,62.09218736813689,0 12.42649283564976,62.09094832265954,0 12.42725483306183,62.09026555035262,0 12.42760656657702,62.08924928220625,0 12.42748783795485,62.08838825286426,0 12.42738014507022,62.08667440430405,0 12.42727021665619,62.08493229499572,0 12.42713128432986,62.08401432649408,0 12.42597989940268,62.0831157497152,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

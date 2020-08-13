@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Övre Fosksjön-Storvätteshågna.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Övre Fosksjön-Storvätteshågna</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				12.39860202279702,62.12291480551993,0 12.40162155999228,62.12247207749799,0 12.40324150673221,62.12230783035923,0 12.40700962829087,62.12152029720905,0 12.41054727775606,62.12089179023713,0 12.414284238215,62.12044919932573,0 12.41784864868564,62.12004848969248,0 12.42153601238527,62.11949836252786,0 12.42362480303558,62.11951606601973,0 12.42550786523363,62.11938323775109,0 12.42780512252898,62.11887483752648,0 12.43051026965453,62.11854728356916,0 12.43259058626598,62.11826177703415,0 12.43391142718032,62.11790517155313,0 12.43596733080319,62.11691741553506,0 12.43929327736441,62.11703428254906,0 12.44249776201646,62.11700602922462,0 12.44421046516307,62.11675758422155,0 12.44607436569974,62.11659784052209,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
